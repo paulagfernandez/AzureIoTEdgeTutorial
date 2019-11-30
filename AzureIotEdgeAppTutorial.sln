@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{34036844-64E7-43A5-9151-4AD90E180989}") = "AzureIotEdgeAppTutorial", "AzureIotEdgeAppTutorial\AzureIotEdgeAppTutorial.iotedgeproj", "{6A38DA5E-49EE-4FFF-9F12-0A32764EDABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotEdgeModuleTutorial", "IotEdgeModuleTutorial\IotEdgeModuleTutorial.csproj", "{31646A01-A9B2-4CB6-99CF-EB6640E99B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A38DA5E-49EE-4FFF-9F12-0A32764EDABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A38DA5E-49EE-4FFF-9F12-0A32764EDABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A38DA5E-49EE-4FFF-9F12-0A32764EDABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A38DA5E-49EE-4FFF-9F12-0A32764EDABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31646A01-A9B2-4CB6-99CF-EB6640E99B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31646A01-A9B2-4CB6-99CF-EB6640E99B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31646A01-A9B2-4CB6-99CF-EB6640E99B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31646A01-A9B2-4CB6-99CF-EB6640E99B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5081D023-8B5C-4D63-85CC-0B6742A69DD3}
+	EndGlobalSection
+EndGlobal
