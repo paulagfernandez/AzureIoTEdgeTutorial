@@ -13,7 +13,7 @@
               "docker": {
                 "username": "$CONTAINER_REGISTRY_USERNAME",
                 "password": "$CONTAINER_REGISTRY_PASSWORD",
-                "address": "CHANGER-CONTAINER_REGISTRY_SERVER"
+                "address": "tutorialcontaineriot.azurecr.io"
               }
             }
           }

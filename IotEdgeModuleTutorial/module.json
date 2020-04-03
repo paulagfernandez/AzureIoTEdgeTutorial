@@ -2,7 +2,7 @@
     "$schema-version": "0.0.1",
     "description": "",
     "image": {
-        "repository": "CHANGER-CONTAINER_REGISTRY_SERVER/iotedgemoduletutorial",
+        "repository": "tutorialcontaineriot.azurecr.io/iotedgemoduletutorial",
         "tag": {
             "version": "0.0.1",
             "platforms": {
